@@ -1,6 +1,6 @@
 {
   "name": "Shutyerpihole",
   "tagline": "Python script and schematics for a Raspberry Pi shutdown button.",
-  "body": "***Just so you know, I'm not the author of the original script. :)***\r\nIt is, however, the best example of a button-triggered shutdown script that I've found. The original script is authored by AndrewH7, and may be found on [Instructables](http://www.instructables.com/id/Simple-Raspberry-Pi-Shutdown-Button/?ALLSTEPS).\r\n\r\n@jerrywaller",
+  "body": "***Just so you know, I'm not the author of the original script. :)***\r\nIt is, however, the best example of a button-triggered shutdown script that I've found. The original script is authored by AndrewH7, and may be found on [Instructables](http://www.instructables.com/id/Simple-Raspberry-Pi-Shutdown-Button/?ALLSTEPS).\r\n\r\n## Author  \r\n@jerrywaller",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
