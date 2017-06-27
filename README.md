@@ -1,4 +1,4 @@
-# ShutYerPiHole
+# RasPiShutdown
 Python script and schematic for a Raspberry Pi shutdown button.
 
 I wanted something to cover my specific needs: a shutdown button for the Pi that elegantly avoided the problems of a floating pin and didn't rely on a *while* statement.
